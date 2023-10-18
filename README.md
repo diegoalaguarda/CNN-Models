@@ -1,6 +1,5 @@
 # CNN-Models
-CNN Models used for the quantification of microboring traces colonizing coral skeletons
-
+CNN Models regroup the methodology used for the quantification of microboring traces colonizing coral skeletons
 Affiliate to the Article from Alaguarda et al. (2023): "Machine learning approach to quantify microboring assemblage dynamics in two living massive corals"
 
 In the Notebook: "Estimation_Coral_Skeleton_Colonization_Microboring_Traces.ipynb" you will find the different steps for the post-processing of the SEM databases authors want to analyze
